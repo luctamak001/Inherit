@@ -9,7 +9,7 @@ public class Person {
     }
 
     public void introduce() {
-        System.out.println("Name " + name + ", age is " + age);
+        System.out.println("My name " + name + ", age is " + age + "years old.");
     }
 
 }
