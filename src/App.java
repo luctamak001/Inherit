@@ -5,10 +5,10 @@ public class App {
         Person student1 = new Student("Kumar", 16, 11);
         
 
-        System.out.println(¨Teacher Introduction:¨);
+        System.out.println("Teacher Introduction:");
         teacher1.introduce();
 
-        System.out.println(¨\nStudent Introduction:¨);
+        System.out.println("\nStudent Introduction::");
         student1.introduce();
     }
 }
